@@ -10,7 +10,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    text-align: center; 
+    text-align: left; 
 }
 nav ul li, footer ul li {
     display: inline;
@@ -27,7 +27,7 @@ h1 {
     font-size: 3em;
     color: #021c3d;
     font-family: 'Sans-Serif';
-    text-align:center;
+    text-align:right;
 }
 p {
     font-size: 1.5em;
