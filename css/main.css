@@ -12,6 +12,8 @@ nav ul, footer ul {
     font-weight: bold;
     text-align: left; 
     vertical-align: top;
+    height: 90px;
+    border: 2px dashed #fce5f1;
 }
 nav ul li, footer ul li {
     display: inline;
