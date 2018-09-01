@@ -11,6 +11,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     text-align: left; 
+    vertical-align: text-top;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -27,7 +28,7 @@ h1 {
     font-size: 3em;
     color: #021c3d;
     font-family: 'Sans-Serif';
-    text-align:right;
+    text-align:center;
 }
 p {
     font-size: 1.5em;
