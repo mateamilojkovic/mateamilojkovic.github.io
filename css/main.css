@@ -59,10 +59,10 @@ ul.posts li {
 
 .flex-container > div {
   background-color: #e2ced8;
-  width: 10px;
+  width: 30px;
   margin: 5px;
   text-align: center;
   line-height: 10px;
-  font-size: 20px;
+  font-size: 30px;
 }
 
