@@ -21,6 +21,8 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #021c3d;
+    line-height:1.6;
+    font-size:1.5em;
 }
 a:hover {
     text-decoration: underline;
@@ -64,6 +66,6 @@ ul.posts li {
   margin: 20;
   text-align: center;
   line-height: 1.6;
-  font-size: 1;
+  font-size: 1em;
 }
 
