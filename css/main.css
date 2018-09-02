@@ -7,12 +7,13 @@ nav ul, footer ul {
     font-family:'Sans-Serif';
     font-size: 1em;
     color: #021c3d;
-    padding: 5px;
+    padding: 10px;
     list-style: none;
     font-weight: normal;
     text-align: left; 
     vertical-align: top;
-    line-height: 10px;
+    line-height: 20px;
+    margin: 20px;
 }
 nav ul li, footer ul li {
     display: inline;
