@@ -10,10 +10,10 @@ nav ul, footer ul {
     padding: 10px;
     list-style: none;
     font-weight: normal;
-    text-align: justify; 
+    text-align: left; 
     vertical-align: top;
-    line-height: 20px;
-    margin: 20px;
+    line-height: 1.5;
+    margin: 20;
 }
 nav ul li, footer ul li {
     display: inline;
