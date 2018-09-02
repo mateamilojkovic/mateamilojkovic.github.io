@@ -1,7 +1,7 @@
 body {
     margin: 10px auto;
     width: 70%;
-    background-color: #fff7fb;
+    background-color: #e2ced8;
 }
 nav ul, footer ul {
     font-family:'Sans-Serif';
@@ -38,7 +38,7 @@ p {
     text-align:center;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #e2ced8;
     font-size: .8em;
 }
 
@@ -54,11 +54,11 @@ ul.posts li {
 .flex-container {
   display: flex;
   flex-direction: column;
-  background-color: #fff7fb;
+  background-color: #e2ced8;
 }
 
 .flex-container > div {
-  background-color: #fff7fb;
+  background-color: #e2ced8;
   width: 10px;
   margin: 5px;
   text-align: center;
