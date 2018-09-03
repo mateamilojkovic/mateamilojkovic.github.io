@@ -33,7 +33,14 @@ h1 {
     font-family: 'Sans-Serif';
     text-align:center;
 }
-p {
+pCenter{
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #021c3d;
+    font-family: 'Sans-Serif';
+    text-align:center;
+}
+pJustify {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #021c3d;
