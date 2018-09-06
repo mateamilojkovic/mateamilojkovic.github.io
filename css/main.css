@@ -86,4 +86,9 @@ ul.posts li {
 
 img.a {
     vertical-align: text-bottom;
+    width="350";
+    height="300";
+    align = "left"
+    vertical-align:text-bottom; 
 }
+
