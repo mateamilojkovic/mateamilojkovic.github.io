@@ -93,10 +93,7 @@ ul.posts li {
     margin-right: auto;
 }
 
-/*img.a {
-    vertical-align: text-bottom;
-    align = "center"
-    margin-left: auto;
-    margin-right:auto; 
-}*/
-
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
