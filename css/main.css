@@ -1,7 +1,7 @@
 body {
     margin: 10px auto;
     width: 80%;
-    background-color: #fff2f8;
+    background-color: #fff9fc;
 }
 nav ul, footer ul {
     font-family:'Sans-Serif';
@@ -65,7 +65,7 @@ h4 {
 
 
 footer {
-    border-top: 1px solid #fff2f8;
+    border-top: 1px solid #fff9fc;
     font-size: .8em;
 }
 
@@ -85,7 +85,7 @@ ul.posts li {
 }
 
 .flex-container > div {
-  background-color: #fff2f8;
+  background-color: #fff9fc;
   width: 30;
   margin: 20;
   text-align: left;
