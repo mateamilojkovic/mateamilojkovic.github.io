@@ -49,6 +49,15 @@ h2 {
     text-align:right;
 }
 
+h3 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #021c3d;
+    font-family: 'Sans-Serif';
+    text-align:left;
+}
+
+
 footer {
     border-top: 1px solid #fff2f8;
     font-size: .8em;
