@@ -99,6 +99,13 @@ ul.posts li {
     margin-right: auto;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
 div.desc {
     padding: 15px;
   /*  text-align: center;*/
