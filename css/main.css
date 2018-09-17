@@ -106,9 +106,15 @@ div.desc {
 
 
 /* Three image containers */
-.column {
+.column3 {
   float: left;
   width: 32%;
+  padding: 5px;
+}
+
+.column2 {
+  float: left;
+  width: 25%;
   padding: 5px;
 }
 
