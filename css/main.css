@@ -21,6 +21,12 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #021c3d;
+   line-height:1.6;
+   font-size:1.5em; 
+}
+a1 {
+    text-decoration: none;
+    color: #021c3d;
   /*  line-height:1.6;
    font-size:1.5em; */
 }
