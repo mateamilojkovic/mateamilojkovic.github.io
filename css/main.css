@@ -167,3 +167,8 @@ div.desc {
     left: 50%;
     transform: translate(-50%, -50%);
 } 
+
+/* Text box for homepage text */
+.div1 {
+    width: 300px;
+}
