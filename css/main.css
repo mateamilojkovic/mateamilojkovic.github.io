@@ -173,3 +173,13 @@ div.desc {
     width: 300px;
     padding: 10px;
 }
+
+/*@media only screen and (max-width: 600px) {
+
+    img#underconstruction {width: 100%; height: 100%; margin: 0; padding; 0;}
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="true">
+}
+*/ 
