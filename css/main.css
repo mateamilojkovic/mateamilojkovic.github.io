@@ -107,7 +107,7 @@ ul.posts li {
 .right {
     display: block;
     margin-left: auto;
-   style="float: right;" 
+   float: right;
 }
 
 div.desc {
