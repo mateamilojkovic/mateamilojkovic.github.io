@@ -98,6 +98,11 @@ ul.posts li {
     margin-right: auto;
 }
 
+.left {
+    display: block;
+    margin-right: auto;
+}
+
 div.desc {
     padding: 15px;
   /*  text-align: center;*/
