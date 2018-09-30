@@ -26,13 +26,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    color: #021c3d;
-    font-family: 'Sans-Serif';
-    text-align:center;
-}
-
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -40,12 +33,20 @@ p {
     font-family: 'Sans-Serif';
     text-align:center;
 }
+
+h1 {
+    font-size: 3em;
+    color: #021c3d;
+    font-family: 'Sans-Serif';
+    text-align:center;
+}
+
 h2 {
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.4em;
     color: #021c3d;
     font-family: 'Sans-Serif';
-    text-align:right;
+    text-align: center;
 }
 
 h3 {
@@ -59,7 +60,7 @@ h4 {
     font-size: 2em;
     color: #021c3d;
     font-family: 'Sans-Serif';
-    text-align: left;
+    text-align: center;
 }
 
 
