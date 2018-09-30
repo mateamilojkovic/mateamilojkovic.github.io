@@ -101,11 +101,13 @@ ul.posts li {
 .left {
     display: block;
     margin-right: auto;
+    float: left; 
 }
 
 .right {
     display: block;
     margin-left: auto;
+    float: right: 
 }
 
 div.desc {
