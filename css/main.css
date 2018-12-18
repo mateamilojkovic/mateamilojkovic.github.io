@@ -22,7 +22,7 @@ li a:hover:not(.active) {
 
 li a.active {
   color: white;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 ul {
@@ -30,7 +30,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #114951;
+  background-color: #154C54;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
