@@ -36,6 +36,12 @@ ul {
   top: 0;
 }
 
+h1 {
+    font-size: 3em;
+    color: #154C54;
+    font-family: 'Sans-Serif';
+    text-align:center;
+}
 
 
 
@@ -68,12 +74,7 @@ p {
     text-align:center;
 }
 
-h1 {
-    font-size: 3em;
-    color: #021c3d;
-    font-family: 'Sans-Serif';
-    text-align:center;
-}
+
 
 h2 {
     font-size: 2em;
