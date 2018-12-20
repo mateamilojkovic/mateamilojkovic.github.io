@@ -118,7 +118,7 @@ body {
 .bottom-left {
     position: absolute;
     bottom: 1.5em;
-    left: 3em;
+    left: 6em;
 }
 
 /* Top left text */
@@ -152,8 +152,8 @@ body {
 
 /* Text box for homepage text */
 .div1 {
-    width: 300px;
-    padding: 10px;
+    width: 10em;
+    padding: 1em;
 }
 
 
