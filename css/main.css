@@ -87,6 +87,7 @@ h1 {
 /* For screen widths smaller than 400px: */
 body {
   background-repeat: no-repeat;
+  background-color: #154C54;
 }
 
 /* For screen widths 400px and larger: */
