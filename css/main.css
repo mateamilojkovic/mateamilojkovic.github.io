@@ -1,7 +1,6 @@
 body {
     margin: 1em auto;
     width: 90%;
-    background-color: #fff9fc;
 }
 
 li {
@@ -102,7 +101,7 @@ body {
 /* For screen widths 400px and larger: */
 @media only screen and (min-width: 400px) {
   body { 
-    background-color: #154C54;
+    background-color: #fff9fc;
 
   }
 }
