@@ -92,14 +92,14 @@ p {
 
 /*/////////////////////////////////////*/
 /* image formatting  */
-/* For screen widths smaller than 500px: */
+/* For screen widths smaller than 600px: */
 body {
   background-repeat: no-repeat;
   background-color: #154C54;
 }
 
-/* For screen widths 500px and larger: */
-@media only screen and (min-width: 500px) {
+/* For screen widths 600px and larger: */
+@media only screen and (min-width: 600px) {
   body { 
     background-color: #fff9fc;
 
