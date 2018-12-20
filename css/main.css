@@ -88,8 +88,6 @@ p {
 
 .dropdown:hover .dropbtn {background-color: #3F7981;}
 
-
-
 /*/////////////////////////////////////*/
 /* image formatting  */
 /* For screen widths smaller than 700px: */
@@ -104,6 +102,58 @@ body {
     background-color: #fff9fc;
 
   }
+}
+
+/*/////////////////////////////////////*/
+/*formatting text over an image */
+
+ /* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 1em;
+    left: 2em;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 1em;
+    left: 2em;
+}
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+
+/* Text box for homepage text */
+.div1 {
+    width: 300px;
+    padding: 10px;
 }
 
 
@@ -223,52 +273,4 @@ div.desc {
 }
 
 
- /* Container holding the image and the text */
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
-
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
-/* Centered text */
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-} 
-
-/* Text box for homepage text */
-.div1 {
-    width: 300px;
-    padding: 10px;
-}
 
