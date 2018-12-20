@@ -82,18 +82,19 @@ h1 {
 
 
 
-
-
-
-@media only screen and (max-width: 600px) {
-
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  img {
-  width: 100%;
-  height: 100%;
+/*/////////////////////////////////////*/
+/* image formatting  */
+/* For screen widths smaller than 400px: */
+body {
+  background-repeat: no-repeat;
 }
 
-} 
+/* For screen widths 400px and larger: */
+@media only screen and (min-width: 400px) {
+  body { 
+  
+  }
+}
 
 
 
