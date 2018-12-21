@@ -117,8 +117,8 @@ body {
 /* Bottom left text */
 .bottom-left {
     position: absolute;
-    bottom: 1em;
-    left: 1.25em;
+    bottom: 0.5em;
+    left: 1em;
 }
 
 /* Top left text */
