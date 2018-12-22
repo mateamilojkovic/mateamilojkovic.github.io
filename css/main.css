@@ -258,7 +258,7 @@ a {
 }
 
 div.desc {
-    padding: 15px;
+    padding: 1em;
   /*  text-align: center;*/
 }
 
@@ -267,13 +267,13 @@ div.desc {
 .column3 {
   float: left;
   width: 32%;
-  padding: 5px;
+  padding: 1em;
 }
 
 .column2 {
   float: left;
   width: 30%;
-  padding: 100px;
+  padding: 3em;
 }
 
 /* Clear floats after image containers */
