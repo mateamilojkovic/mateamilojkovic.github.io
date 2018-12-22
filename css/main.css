@@ -138,8 +138,6 @@ body {
     position: absolute;
     bottom: 1em;
     left: 2.75em;
-    width: 17em;
-    padding: 2.5em;
 }
 
 /* on favorite things page*/
@@ -178,12 +176,12 @@ body {
     transform: translate(-50%, -50%);
 } 
 
-/* Text box for homepage text 
+ Text box for homepage text 
 .div1 {
     width: 17em;
     padding: 2.5em;
 }
-*/
+
 footer {
     border-top: .1em solid #fff9fc;
     font-size: .8em;
