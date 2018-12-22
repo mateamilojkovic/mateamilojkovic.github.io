@@ -143,7 +143,7 @@ body {
 /* on favorite things page*/
 .bottom-left2 {
     position: absolute;
-    bottom: 1em;
+    bottom: 2em;
     left: 4em;
 }
 
@@ -182,8 +182,19 @@ body {
     padding: 2.5em;
 }
 
+footer {
+    border-top: .1em solid #fff9fc;
+    font-size: .8em;
+}
 
+ul.posts { 
+    margin: 1em auto 2em; 
+    font-size: 1.5em;
+}
 
+ul.posts li {
+    list-style: none;
+}
 
 
 
@@ -211,19 +222,7 @@ a {
 
 
 
-footer {
-    border-top: 1px solid #fff9fc;
-    font-size: .8em;
-}
 
-ul.posts { 
-    margin: 10px auto 20px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
-}
 
 .flex-container {
   display: flex;
