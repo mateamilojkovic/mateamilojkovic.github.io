@@ -133,10 +133,18 @@ body {
 }
 
 /* Bottom left text */
-.bottom-left {
+/* on homepage and about page */
+.bottom-left1 {
     position: absolute;
     bottom: 1em;
     left: 2.75em;
+}
+
+/* on favorite things page*/
+.bottom-left2 {
+    position: absolute;
+    bottom: 1em;
+    left: 4em;
 }
 
 /* Top left text */
