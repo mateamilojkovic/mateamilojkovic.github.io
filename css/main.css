@@ -151,10 +151,29 @@ body {
 .bottom-left3 {
     position: absolute;
     bottom: .5em;
-    left: 9.5em;
+    left: 7em;
 }
 
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 1em;
+    left: 1.5em;
+}
 
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 1em;
+    right: 2em;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 1em;
+    right: 2em;
+}
 
 /* Centered text */
 .centered {
@@ -234,8 +253,8 @@ a {
 }
 
 .left {
-    display: block;
-    margin-right: auto; 
+   /* display: block;
+    margin-right: auto; */
     float: left; 
 }
 
@@ -270,5 +289,3 @@ div.desc {
   clear: both;
   display: table;
 }
-
-
