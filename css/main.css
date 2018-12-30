@@ -234,8 +234,8 @@ a {
 }
 
 .left {
-   /* display: block;
-    margin-right: auto; */
+    display: block;
+    margin-right: auto; 
     float: left; 
 }
 
