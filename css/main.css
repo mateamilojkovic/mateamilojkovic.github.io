@@ -150,7 +150,7 @@ body {
 /* on about page*/
 .bottom-left3 {
     position: absolute;
-    bottom: .1em;
+    bottom: .01em;
     left: 9.5em;
 }
 
