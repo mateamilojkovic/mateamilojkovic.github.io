@@ -150,8 +150,15 @@ body {
 /* on about page*/
 .bottom-left3 {
     position: absolute;
-    bottom: -1em;
+    bottom: 0em;
     left: 10em;
+}
+
+/* on accomplishments page*/
+.bottom-left4 {
+    position: absolute;
+    bottom: 0em;
+    left: 11em;
 }
 
 /* Top left text */
