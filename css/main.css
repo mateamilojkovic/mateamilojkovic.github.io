@@ -145,6 +145,7 @@ body {
     position: absolute;
     bottom: .5em;
     left: 0em;
+    
 }
 
 /* on about page*/
@@ -181,6 +182,12 @@ body {
  /*Text box for homepage text */
 .div1 {
     width: 17em;
+    padding: 2.5em;
+}
+
+ /*Text box for favorite things text */
+.div2 {
+    width: 10em;
     padding: 2.5em;
 }
 
